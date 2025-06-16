@@ -20,7 +20,7 @@ const HeroSection = () => {
                 <ClockIcon className='w-4.5 h-4.5'/> 2h 8m
              </div>
       </div>
-      <p className='max-w-md text-gray-300'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo odit vitae culpa voluptate perspiciatis ea officia,  laudantium autem in laborum delectus.</p>
+      <p className='max-w-md text-gray-300'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo odit vitae culpa voluptate perspiciatis ea officia, fuga fugiat perferendis repudiandae laudantium autem in laborum delectus.</p>
   <button onClick={()=>navigate('/movies')} className='flex items-center gap-1 px-6 py-3 text-sm bg-primary hover:bg-primary-dull transition rounded-full font-medium cursor-pointer' >
     Explore Movies 
     <ArrowRight className='w-5 h-5' />
